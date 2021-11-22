@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack web development using JavaScript
 - 📚 I’m currently learning React Native and Flutter
 - 📌 I’m looking to collaborate on any project atm
-- 🚀 You can find me at twitter @itsJessGC
+- 🚀 You can find me at twitter @itsJessGC or send me an e-mail jessica.guerrero.carrera@gmail.com
 
 <!---
 itsJessGC/itsJessGC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
